@@ -114,10 +114,10 @@ a:hover {
 @media only screen and (min-width: 60em) {
 
   html {
-  font-size: 120%;
-  line-height: 1.5;
-  vertical-align: middle;
-  }
+    font-size: 120%;
+    line-height: 1.5;
+    vertical-align: middle;
+    }
 
   .wrapper {
     padding-bottom: 2rem;
@@ -136,17 +136,17 @@ a:hover {
     display: inline-block;
     margin-top: 2.5rem;
     margin-left: .25rem;
-    }
+  }
 
 }
 
 @media only screen and (min-width: 90em) {
 
   html {
-  font-size: 130%;
-  line-height: 1.5;
-  vertical-align: middle;
-}
+    font-size: 130%;
+    line-height: 1.5;
+    vertical-align: middle;
+  }
 
   .img-flex {
     width: 35%;
